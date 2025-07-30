@@ -35,4 +35,5 @@ app.post('/', (req, res) => {
 app.listen(port, () => {
   console.log(`\nListening on port ${port}\n`);
 });
+fixed syntax error in app.js
 
